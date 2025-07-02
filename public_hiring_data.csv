@@ -1,0 +1,6 @@
+education,experience_years,skills,job_title,location,hired
+B.Tech Computer Science,2,"['Python', 'Django', 'REST']",Backend Developer,Remote,1
+M.S. AI,4,"['Python', 'TensorFlow', 'NLP']",ML Engineer,New York,1
+PhD Data Science,6,"['R', 'SQL', 'Deep Learning']",Data Scientist,San Francisco,0
+MBA HR,3,"['Communication', 'Recruitment']",HR Manager,Remote,1
+B.Sc IT,1,"['HTML', 'CSS', 'JavaScript']",Frontend Developer,Austin,0
